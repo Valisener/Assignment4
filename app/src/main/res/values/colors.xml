@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Changed color to match the Visual from the assignment to Black so top status bar shows black
+    -->
+    <color name="colorPrimary">#000000</color>
+    <!--Color primary dark Didnt change didnt remove since its required to be there-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--Color accent Didnt really mess with this all that much but not used -->
+    <color name="colorAccent">#FF4081</color>
+    <!--This is the color for the Edit Box Fields password and email the white background-->
+    <color name="colorInputBoxes">#ffffff</color>
+    <!--This is the Color for the login background button-->
+    <color name="colorButtonLoginBackground">#EBEEF3</color>
+    <!-- This is the Background color for the app i could use the same one for button text
+    but in the real world if i was making an app id do it this way so i could change it later on
+    to some other color very easily instead of that.-->
+    <color name="colorBackground">#25AE90</color>
+    <!--This is the color for the button text for the login-->
+    <color name="colorButtonText">#25AE90</color>
+    <!-- This is the color for the bar between password and login
+    This one was tricky there seemed to be a separator of some kind between the login
+    and the password but cant make it out, maybe its a visual quirk not sure but
+    added this to make the appearance match it-->
+    <color name="colorBarSeperator">#24a78a</color>
+
+</resources>

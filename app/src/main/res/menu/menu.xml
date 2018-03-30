@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--This is a menu to show the ... on the top right to match the assignment
+    thats all this is for and added one menu item used a generic name for that in strings
+        since it wasnt required to have a specific menu item in there.
+    -->
+    <item android:id="@+id/menuItem"
+        android:title="@string/menuItem"
+        />
+</menu>
